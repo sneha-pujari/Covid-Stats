@@ -14,7 +14,7 @@ function App() {
   const [results, setResults] = useState([]);
   const [searchCountry, setSearchCountry] = useState("");
 const filterCountry = results.filter(item => {
-  return item.country === searchCountry;
+  return searchCountry !== "" ? item.country === searchCountry : item;
 })
   const date = new Date(parseInt(latest.updated));
   const latestUpdated = date.toString();
