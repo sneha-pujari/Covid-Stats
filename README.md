@@ -1,3 +1,9 @@
+# Covid-19 Stats Tracker
+
+COVID-19 Live Stats using ReactJS
+
+https://coronavirus-stats-x.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
