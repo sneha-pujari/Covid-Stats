@@ -6,6 +6,8 @@ https://coronavirus-stats-x.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/58720128/105944825-17718100-608a-11eb-85c7-0387f0923263.png)
 
+Searching for stats of a country:
+![image](https://user-images.githubusercontent.com/58720128/105945002-69b2a200-608a-11eb-91f1-cab87d373f1a.png)
 
 # Getting Started with Create React App
 
