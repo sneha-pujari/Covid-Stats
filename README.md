@@ -4,6 +4,7 @@ COVID-19 Live Stats using ReactJS
 
 https://coronavirus-stats-x.netlify.app/
 
+![image](https://user-images.githubusercontent.com/58720128/105944825-17718100-608a-11eb-85c7-0387f0923263.png)
 
 
 # Getting Started with Create React App
